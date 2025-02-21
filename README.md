@@ -2,4 +2,4 @@
 
 this is a repo to test out an obsidian github plugin i'm trying
 
-added summat else!
+added summat else! it worked.
